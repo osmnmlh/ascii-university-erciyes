@@ -1,0 +1,1 @@
+*.exe\n*.o\n*.obj\n*.cbp\n*.depend\n*.layout\nbin/\nobj/
