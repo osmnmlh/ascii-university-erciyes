@@ -4,10 +4,10 @@ This was my very first project during the Programming course at Erciyes Universi
 
 ## What It Does?
 
--Animates the phrase “ERCIYES UNIVERSITESI” letter by letter in a random sequence using ASCII art.
--Uses the custom gotoxy() function for precise cursor positioning in the console window.
--Employs high-resolution timing via QueryPerformanceCounter() to achieve smooth and accurate animations.
--Demonstrates basic console graphics and animation techniques using ASCII character
+- Animates the phrase “ERCIYES UNIVERSITESI” letter by letter in a random sequence using ASCII art.
+- Uses the custom gotoxy() function for precise cursor positioning in the console window.
+- Employs high-resolution timing via QueryPerformanceCounter() to achieve smooth and accurate animations.
+- Demonstrates basic console graphics and animation techniques using ASCII character
 
 ## Technologies Used
 
